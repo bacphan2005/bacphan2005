@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, DSA, coding, ...**
 
-- 📝 I regularly write articles on [https://s19ma.github.io/](https://bacphan2005.github.io/)
+- 📝 I regularly write articles on [https://s19ma.github.io/](https://s19ma.github.io/)
 
 <p align="left">
 </p>
