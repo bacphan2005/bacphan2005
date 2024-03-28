@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bacphan2005&label=Profile%20views&color=0e75b6&style=flat" alt="bacphan2005" /> </p>
 
-- 🌱 I’m currently learning **Python, DSA, coding, ...**
-
 - 📝 I regularly write articles on [https://s19ma.github.io/](https://s19ma.github.io/)
 
 <p align="left">
